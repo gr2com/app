@@ -1,6 +1,6 @@
 {
-    "name": "new2",
-    "short_name": "new2",
+    "name": "flutter_login",
+    "short_name": "flutter_login",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
